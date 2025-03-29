@@ -49,7 +49,14 @@ Constraints:
 
 
 
-Approach : To solve this question the most basic logic one gets hitted by is running a for loop through the array and comparing elements at each index with value. But here one can choose two different paths first for returning the elements equal to the val then deleting them from the array. But using this logic requires a depth knowledge of many different functions and methods. The second way is the easiest one we just find the elements that are not equal to the val and then we just print this set of elements.
+
+
+
+
+
+      
+
+APPROACH : To solve this question the most basic logic one gets hitted by is running a for loop through the array and comparing elements at each index with value. But here one can choose two different paths first for returning the elements equal to the val then deleting them from the array. But using this logic requires a depth knowledge of many different functions and methods. The second way is the easiest one we just find the elements that are not equal to the val and then we just print this set of elements.
 
 
 
