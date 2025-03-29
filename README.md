@@ -54,10 +54,7 @@ Approach : To solve this question the most basic logic one gets hitted by is run
 
 
 
-'''
-
-
-class Solution {
+'''class Solution {
     public int removeElement(int[] nums, int val) {
         int k=0;
        for(int i=0;i<nums.length;i++){
@@ -66,7 +63,4 @@ class Solution {
             }
        }return k;
     }
-}
-
-
-'''
+}'''
